@@ -1,3 +1,3 @@
 # BooksAPI
 
-### Book API built using MinimalAPI
+### Book API with CRUD operations built using MinimalAPI
